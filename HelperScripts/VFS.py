@@ -15,3 +15,7 @@ with open("/flash/test.txt", "r") as f:
     content = f.read()
 
 print("read:", content)
+
+#In the above example, the spiffs file system is automatically mounted to the /flash directory when booting.
+# The user only needs to pass in the "/flash" directory name as a parameter when using the os interface to 
+# access the file system .
