@@ -1,10 +1,3 @@
-'''
-    train main class
-
-    @author neucrack@sipeed
-    @license Apache 2.0 © 2020 Sipeed Ltd
-'''
-
 import os, sys
 root_path = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 sys.path.append(root_path)

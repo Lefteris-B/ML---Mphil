@@ -1,11 +1,3 @@
-'''
-    train base class
-
-    @author neucrack@sipeed
-    @license Apache 2.0 © 2020 Sipeed Ltd
-'''
-
-
 import abc
 
 class Train_Base(metaclass=abc.ABCMeta):

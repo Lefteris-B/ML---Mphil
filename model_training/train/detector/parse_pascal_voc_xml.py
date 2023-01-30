@@ -1,10 +1,9 @@
 '''
     parse pascal VOC xml
 
-    @author neucrack
-    @license MIT © 2020 neucrack
-'''
 
+    @license MIT © 2020 
+'''
 
 
 

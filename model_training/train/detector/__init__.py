@@ -1,7 +1,6 @@
 '''
     train detector
 
-    @author neucrack@sipeed
     @license Apache 2.0 © 2020 Sipeed Ltd
         the sub directory yolo dirived from https://github.com/lemariva/MaixPy_YoloV2
         which is also Apache 2.0 licensed by lemariva

@@ -1,12 +1,3 @@
-'''
-    logger wrapper based oh logging
-
-    @author neucrack
-    @license MIT © 2020 neucrack
-'''
-
-
-
 import logging
 
 

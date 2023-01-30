@@ -1,7 +1,7 @@
 '''
     train detector
 
-    @author neucrack@sipeed
+   
     @license Apache 2.0 © 2020 Sipeed Ltd
 '''
 

@@ -1,12 +1,3 @@
-'''
-    gpu utils
-
-    @author neucrack
-    @license MIT © 2020 neucrack
-'''
-
-
-
 import pynvml
 import os
 import multiprocessing
